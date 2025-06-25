@@ -6,8 +6,9 @@
 
 🌱 Estoy aprendiendo: Ciberseguridad  
 
-📫 Cómo contactarme: 🌐 Redes Sociales: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorssp/)
-
+📬 Cómo contactarme: <a href="https://www.linkedin.com/in/victorssp/">
+  <img src="https://img.icons8.com/color/40/000000/linkedin.png" width="30" />
+</a>
 
 ## 🛠️ Tecnologías y herramientas más destacadas que he ido utilizando
 
